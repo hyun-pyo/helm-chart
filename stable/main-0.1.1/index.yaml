@@ -3,12 +3,12 @@ entries:
   mainpage:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-20T12:31:52.5147211+09:00"
+    created: "2021-04-22T11:04:24.6576933+09:00"
     description: Ringnet NCP COP mainpage
-    digest: 4ac69f08cd8bf2494ab1cd9095032b394307040fd435cd36f9a24e7eda4db5c6
+    digest: c4610e28825d278bea24bde2eaca65c5cdf6fd3ab56daec9ddae0d3f56a21346
     name: mainpage
     type: application
     urls:
     - mainpage-0.1.1.tgz
     version: 0.1.1
-generated: "2021-04-20T12:31:52.5117927+09:00"
+generated: "2021-04-22T11:04:24.6566934+09:00"
